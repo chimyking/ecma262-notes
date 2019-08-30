@@ -16,7 +16,7 @@ Object Environment Records are used to define the effect of ECMAScript elements 
 
 For specification purposes Environment Record values are values of the Record specification type and can be thought of as existing in a simple object-oriented hierarchy where Environment Record is an abstract class with three concrete subclasses, `declarative Environment Record`, `object Environment Record`, and `global Environment Record`. Function Environment Records and module Environment Records are subclasses of declarative Environment Record. The abstract class includes the abstract specification methods defined in Table 14. These abstract methods have distinct concrete algorithms for each of the concrete subclasses.
 
-![ss]('../images/8_1_1_1.png')
+![ss](../images/8_1_1_1.png)
 
 ## 8.2 Realms
 

@@ -179,7 +179,7 @@ The Set type is used to explain a collection of unordered elements for use in th
 The Completion type is a Record used to explain the runtime propagation of values and control flow such as the behaviour of statements (break, continue, return and throw) that perform nonlocal transfers of control.
 完成类型是一个记录，用于解释值和控制流的运行时传播，例如执行非本地控制传输的语句（break、continue、return 和 throw）的行为
 
-![alt]('../images/6_2_3_1.png)
+![alt](../images/6_2_3_1.png)
 
 #### 6.2.3.1 Await
 

@@ -43,12 +43,12 @@ When the abstract operation OrdinaryToPrimitive is called with arguments O and h
 
 The abstract operation ToBoolean converts argument to a value of type Boolean according to Table 9:
 
-![toboolean]('../images/7_1_2_toBoolean.png')
+![toboolean](../images/7_1_2_toBoolean.png)
 
 ### 7.1.3 ToNumber(argument)
 
 The abstract operation ToNumber converts argument to a value of type Number according to Table 10:
-![toNumber]('../images/7_1_3_number.png')
+![toNumber](../images/7_1_3_number.png)
 
 #### 7.1.3.1 ToNumber Applied to the String Type
 
